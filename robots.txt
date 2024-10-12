@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://randenty.github.io/sitemap.html.gz
+Sitemap: https://randenty.github.io/app/sitemap.html.gz
+Sitemap: https://randenty.github.io/assets/sitemap.html.gz
+Sitemap: https://randenty.github.io/css/sitemap.html.gz
+Sitemap: https://randenty.github.io/includes/sitemap.html.gz
+Sitemap: https://randenty.github.io/item/sitemap.html.gz
+Sitemap: https://randenty.github.io/src/sitemap.html.gz
